@@ -1,15 +1,16 @@
 ## Hi there!  
-My name is Aissa <3 I am a Data Science Engineering Student at ITESO, I am working as an Analyst for a Suply Chain company. I love matcha, bunnies and statistics.
+- My name is Aissa <3 I am a Data Science Engineering Student at ITESO, 
+- I am working as an Analyst for a Suply Chain company. I love matcha, bunnies and statistics.
 
 ## Areas of focus:
-Reporting and Data Analisis
+- Reporting and Data Analisis
 
 ## I’m currently learning:
-Suply Chain Optimization using Data Science
-Machine learning 
-Deep learning
+- Suply Chain Optimization using Data Science
+- Machine learning 
+- Deep learning
 
-How to reach me:
+### How to reach me:
 aissaberenice@gmail.com
 
 ###
