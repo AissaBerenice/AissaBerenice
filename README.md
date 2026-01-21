@@ -1,4 +1,5 @@
-<img width="1338" height="578" alt="image" src="https://github.com/user-attachments/assets/0901cb1e-b3b1-4bb3-a26c-038f47128f6a" />## Hi there!  My name is Aissa <3 I am a Data Science Engineering Student at ITESO, I am working as an Analyst for a Suply Chain company. I love matcha, bunnies and statistics.
+## Hi there!  
+My name is Aissa <3 I am a Data Science Engineering Student at ITESO, I am working as an Analyst for a Suply Chain company. I love matcha, bunnies and statistics.
 
 ## Areas of focus:
 Reporting and Data Analisis
