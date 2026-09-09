@@ -9,7 +9,7 @@ I love matcha, bunnies and statistics.
 - Reporting and Data Analisis
 
 ## I’m currently learning:
-- Suply Chain Optimization using Data Science
+- Supply Chain Optimization using Data Science
 - Machine learning 
 - Deep learning
 
